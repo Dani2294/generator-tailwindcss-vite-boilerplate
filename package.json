@@ -1,0 +1,25 @@
+{
+	"name": "generator-tailwindcss-vite-boilerplate",
+	"version": "1.0.0",
+	"description": "Generates all the starter files for building a vanilla basic project with tailwindcss",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Dani2294/generator-tailwindcss-vite-boilerplate.git"
+	},
+	"keywords": [
+		"yeoman-generator"
+	],
+	"author": "DaniAgb",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Dani2294/generator-tailwindcss-vite-boilerplate/issues"
+	},
+	"homepage": "https://github.com/Dani2294/generator-tailwindcss-vite-boilerplate#readme",
+	"dependencies": {
+		"yeoman-generator": "^5.4.2"
+	}
+}
